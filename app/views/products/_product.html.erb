@@ -2,6 +2,11 @@
   <%= link_to product_path(product) do %>
     <%= image_tag product.image.thumb.url , alt: product.name %>
     <h1>
+    <% if product.quantity == 0 %>
+    <aside class="sold-out">
+      SOLD OUT!
+    </aside>
+  <% end %>
       <span><%= product.name %></span>
       <span><%= humanized_money_with_symbol product.price %></span>
     </h1>

@@ -41,6 +41,17 @@ main section.categories-show {
       border: 0.1em solid rgba(0, 130, 29, 0.3);
       box-shadow: rgba(0, 130, 29, 0.16) 0px 3px 6px, rgba(0, 130, 29, 0.23) 0px 3px 6px;
       // transition: opacity 300ms linear;
+      aside.sold-out {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 10px;
+        color: rgb(232, 213, 6);
+        background-color: #c5160d;
+        border-top-left-radius: 4px;
+        border-bottom-right-radius: 5px;
+        font-size: 1em;
+      }
 
       &:hover {
         transition: all 150ms linear;
