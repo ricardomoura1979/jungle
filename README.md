@@ -38,4 +38,17 @@ Password: book
 
 # FINAL PRODUCT IMAGES
 
-!["screenshot description"]
+!["screenshot description"](https://github.com/ricardomoura1979/jungle/blob/master/docs/1_index.png)
+1 - Main page with all plants available for sales.
+
+!["screenshot description"](https://github.com/ricardomoura1979/jungle/blob/master/docs/2_login_signup.png)
+2 - Login and SignUp webpage to start buying now!
+
+!["screenshot description"](https://github.com/ricardomoura1979/jungle/blob/master/docs/3_clients_cart.png)
+3 - Manage your purchases with our amazing and safe system!
+
+!["screenshot description"](https://github.com/ricardomoura1979/jungle/blob/master/docs/4_admin_dashboard_add_categories.png)
+4 - Admin dashboard to add any plant categories like Brazilian Cactus.
+
+!["screenshot description"](https://github.com/ricardomoura1979/jungle/blob/master/docs/5_admin_dashboard_add_plants.png)
+5 - Admin Dashboard to add any plant like Ficus Lyrata.
