@@ -32,7 +32,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - PostgreSQL 9.x
 - Stripe
 
-# Admin Login and Password
+# Admin Credentials
 Login: jungle
 Password: book
 
