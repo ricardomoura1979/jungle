@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  resources :users
+  resources :users, except: [:index]
   root to: 'products#index' #like get '/' => 'products#index or get '/'=> { controller: 'products', action: 'index'}
   get '/about', to: 'about#show'
   resources :products, only: [:index, :show]
