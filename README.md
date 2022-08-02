@@ -1,6 +1,8 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1 for purposes of buy several kinds of plants.
+You can check the kind of plant, description, time to deliver and price.
+Full your cart now with our system 100% approved by clients!
 
 ## Setup
 
@@ -29,3 +31,11 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+# Admin Login and Password
+Login: jungle
+Password: book
+
+# FINAL PRODUCT IMAGES
+
+!["screenshot description"]
